@@ -1,2 +1,5 @@
 v1/venv/
 v2/venv/
+venv
+v1/*.csv
+v2/*.csv
